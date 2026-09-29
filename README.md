@@ -3,8 +3,17 @@ Repositório criado para atender a atividade 5 da disciplina de Fundamentos de E
 
 Nome do sistema: Organiza+  
 
-Objetivo do sistema: Auxiliar os usuários a gerir suas tarefas, atuando como uma agenda on-line.  
+Objetivo do sistema: O sistema tem como objetivo facilitar o gerenciamento de tarefas, permitindo que o usuário registre suas atividades, defina prazos, acompanhe o status e organize suas tarefas de acordo com categorias ou prioridades  
 
-Principais funcionalidades: Permite criação, escalação de tarefas por prioridades, por tempo de deadline ou por tema.  
+Principais funcionalidades:
+  - Cadastro de usuários;  
+  - Login no sistema;  
+  - Cadastro de tarefas;  
+  - Edição e exclusão de tarefas;  
+  - Definição de prazo para as tarefas;  
+  - Alteração do status das tarefas;  
+  - Definição de categorias ou prioridades;  
+  - Pesquisa e filtragem de tarefas;  
+  - Visualização das tarefas cadastradas.  
 
 Integrantes: Rayane Mireli Silva Gomes
