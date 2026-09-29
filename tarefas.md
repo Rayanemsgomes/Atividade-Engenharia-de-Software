@@ -4,5 +4,8 @@ Tarefas Organiza+
   - descrição;
   - prazo;
   - status;
-  - prioridade;
+  - prioridade: As tarefas podem possuir uma das seguintes prioridades:
+    - Baixa
+    - Média
+    - Alta
   - categoria.
