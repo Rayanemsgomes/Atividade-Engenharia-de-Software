@@ -10,3 +10,4 @@ Requisitos funcionais
   - RF08: Deverá permitir que o usuário organize tarefas por categorias ou prioridades;
   - RF09: Deverá permitir que o usuário pesquise e filtre suas tarefas;
   - RF10: Deverá apresentar ao usuário uma lista das suas tarefas e seus respectivos status e prazos.
+  - RF11: O sistema deve permitir que o usuário atribua uma prioridade à tarefa, podendo classificá-la como baixa, média ou alta.
